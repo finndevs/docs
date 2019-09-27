@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Flarum Documentation',
+  title: 'Flarum Dokumentacja',
   base: '/docs/',
 
   themeConfig: {
