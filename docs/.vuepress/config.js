@@ -4,7 +4,7 @@ module.exports = {
 
   themeConfig: {
     lastUpdated: 'Last Updated',
-    docsRepo: 'finndev/docs',
+    docsRepo: 'finndevs/docs',
     docsDir: 'docs',
     editLinks: true,
     nav: [
